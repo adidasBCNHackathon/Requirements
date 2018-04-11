@@ -12,9 +12,10 @@
 - [AR](#AR)
   * [ARKit](#ARKit)
     + [Must have ARKit](#must-have-arkit)
-    + [We recommend you](#we-recommend-you-arkit)
   * [ARCore](#ARCore)
     + [Must have ARCore](#must-have-arcore)
+    + [We recommend you](#we-recommend-you-arcore)
+
 
 ## Machine learning
 
@@ -98,7 +99,7 @@ You can go to the next links in order to get some free 3d models:
 ### ARCore
 #### Must have ARCore
 - [A supported Android device](https://developers.google.com/ar/discover/#supported_devices), we provide x3 Android
-#### We recommend you <a name="we-recommend-you-arkit"></a>
+#### We recommend you <a name="we-recommend-you-arcore"></a>
 - [Android SDK version 7.0 (API Level 24) or higher](https://docs.unity3d.com/Manual/android-sdksetup.html)
 - [Unity 2017.3.0f2 or higher](https://unity3d.com/es/get-unity/download) with the Android Build Support component
 - [ARCore SDK for Unity](https://github.com/google-ar/arcore-unity-sdk/releases/download/v1.1.0/arcore-unity-sdk-v1.1.0.unitypackage)
