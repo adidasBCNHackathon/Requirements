@@ -6,7 +6,15 @@
   * [Nice to have](#nice-to-have)
     + [Install dependencies](#install-dependencies)
   * [Technical talk](#technical-talk)
-
+- [VR](#VR)
+  * [Must have VR](#must-have-vr)
+  * [We recommend you](#we-recommend-you-vr)
+- [AR](#AR)
+  * [ARKit](#ARKit)
+    + [Must have ARKit](#must-have-arkit)
+    + [We recommend you](#we-recommend-you-arkit)
+  * [ARCore](#ARCore)
+    + [Must have ARCore](#must-have-arcore)
 
 ## Machine learning
 
@@ -61,3 +69,36 @@ $ conda activate bot # enter VE
 - [ ] Part 2 - Train your models in the cloud (AWS)
 
 * The entire talk will be 30 min to 1h
+
+## VR
+
+### Must have VR
+- Own laptop
+- Compatible device 
+### We recommend you <a name="we-recommend-you-vr"></a>
+- Bring your own compatible device.
+- [Unity 5.6](https://unity3d.com/es/get-unity/download) and make sure that the Android Build Support component is selected during installation.
+- [Google VR SDK for Unity](https://github.com/googlevr/gvr-unity-sdk/releases)
+- [Android SDK](https://docs.unity3d.com/Manual/android-sdksetup.html)
+
+You can go to the next links in order to get some free 3d models:
+- https://www.cgtrader.com/free-3d-models
+- https://free3d.com/
+- https://www.turbosquid.com/Search/3D-Models/free
+
+## AR
+
+### ARKit
+
+#### Must have ARKit
+- iPhone 6s or higher, we provide x2 iPhone.
+- [Xcode 9.0](https://developer.apple.com/xcode/)
+- iOS 11.0 or higher
+
+### ARCore
+#### Must have ARCore
+- [A supported Android device](https://developers.google.com/ar/discover/#supported_devices), we provide x3 Android
+#### We recommend you <a name="we-recommend-you-arkit"></a>
+- [Android SDK version 7.0 (API Level 24) or higher](https://docs.unity3d.com/Manual/android-sdksetup.html)
+- [Unity 2017.3.0f2 or higher](https://unity3d.com/es/get-unity/download) with the Android Build Support component
+- [ARCore SDK for Unity](https://github.com/google-ar/arcore-unity-sdk/releases/download/v1.1.0/arcore-unity-sdk-v1.1.0.unitypackage)
